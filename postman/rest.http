@@ -1,0 +1,13 @@
+@devUrl=http://localhost:5000/v1/api
+
+### List comment
+GET {{devUrl}}/comment/list
+
+### Save comment
+POST {{devUrl}}/comment/save
+
+### List comment
+GET {{devUrl}}/comment/6730624bb72790d2af547e5f
+
+### test comment
+POST {{devUrl}}/comment/test
